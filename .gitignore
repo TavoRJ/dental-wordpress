@@ -1,0 +1,13 @@
+# Ignorar archivos de configuración con claves
+wp-config.php
+.env
+
+# Ignorar carpetas pesadas o de sistema
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+node_modules/
+
+# Ignorar archivos de sistema operativo
+.DS_Store
+Thumbs.db
